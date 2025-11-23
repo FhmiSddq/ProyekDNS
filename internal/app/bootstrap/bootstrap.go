@@ -6,7 +6,7 @@ import (
 
 	dns "github.com/FhmiSddq/ProyekDNS/internal/app/dns/handler"
 	"github.com/FhmiSddq/ProyekDNS/internal/app/dns/interface/udp"
-	"github.com/FhmiSddq/ProyekDNS/internal/infra/env"
+	"github.com/FhmiSddq/ProyekDNS/internal/env"
 )
 
 func Start() {

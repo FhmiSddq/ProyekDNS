@@ -6,7 +6,7 @@ import (
 	"strconv"
 
 	"github.com/FhmiSddq/ProyekDNS/internal/app/dns/handler"
-	"github.com/FhmiSddq/ProyekDNS/internal/infra/env"
+	"github.com/FhmiSddq/ProyekDNS/internal/env"
 	"github.com/miekg/dns"
 )
 
