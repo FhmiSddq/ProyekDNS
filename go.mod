@@ -1,4 +1,4 @@
-module github.com/SyafaHadyan/inazuma
+module github.com/FhmiSddq/ProyekDNS
 
 go 1.25.4
 
@@ -13,3 +13,4 @@ require (
 	golang.org/x/sys v0.38.0 // indirect
 	golang.org/x/tools v0.37.0 // indirect
 )
+
